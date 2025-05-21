@@ -1,38 +1,37 @@
-# 👋 Hi, I’m @saikumar2608
+# 👋 Hi, I’m [@saikumar2608](https://github.com/saikumar2608)
 
-🎯 Aspiring Health Data Scientist passionate about building **data-driven solutions** that improve healthcare systems and outcomes.
-
-## 👀 I’m interested in:
-- Health Data Science
-- Clinical Analytics
-- Healthcare BI Dashboards
-- Machine Learning for Risk Prediction
-
-## 🌱 I’m currently learning:
-- Time Series Forecasting with Prophet
-- Advanced Power BI for storytelling
-- SQL optimization in BigQuery
-
-## 🤝 I’m looking to collaborate on:
-- Healthcare data projects
-- Real-world ML applications in health
-- Open-source analytics & dashboards
-
-## 📫 How to reach me:
-- 📧 saikumarcharysripathi@gmail.com
-- 🌐  How to reach me:
-LinkedIn
-- 💻 [Portfolio & Projects](https://github.com/saikumar2608)
-
-## 😄 Pronouns:
-He/Him
-
-## ⚡ Fun fact:
-I named my fitness goal **“Mission August 26”** to crush belly fat and backend bugs at the same time. 🏋️‍♂️📊
+🎓 Aspiring **Health Data Scientist** with a knack for transforming real-world healthcare data into meaningful insights using **SQL**, **Python**, **R**, and **Power BI**. Currently pursuing my M.S. in Health Data Science at **Saint Louis University**.
 
 ---
 
-Let’s connect, collab, and make healthcare smarter together! 💡
+## 👀 I’m interested in:
+- Health Data Analytics & Clinical Informatics  
+- Public Health Dashboards & Storytelling  
+- Predictive Modeling in Healthcare  
+
+---
+
+## 🌱 I’m currently learning:
+- Time Series Forecasting with Prophet & ARIMA  
+- Advanced Power BI (DAX, Tooltips, Drillthrough)  
+- Azure Synapse + Healthcare APIs  
+
+---
+
+## 🤝 I’m looking to collaborate on:
+- Open-source health data projects  
+- Disease modeling or hospital data visualizations  
+- Anything that mixes health + data + storytelling!  
+
+---
+
+## 📫 How to reach me:
+- 📧 [saikumarcharysripathi@gmail.com](mailto:saikumarcharysripathi@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/saikumarchary-sripathi-569995260)  
+
+---
+
+
 
 
 <!---
