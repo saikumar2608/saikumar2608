@@ -20,7 +20,8 @@
 
 ## 📫 How to reach me:
 - 📧 saikumarcharysripathi@gmail.com
-- 🌐 [LinkedIn](https://linkedin.com/in/skc219)
+- 🌐  How to reach me:
+LinkedIn
 - 💻 [Portfolio & Projects](https://github.com/saikumar2608)
 
 ## 😄 Pronouns:
